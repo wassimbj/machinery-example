@@ -1,4 +1,4 @@
-Playing with machinery
+**Go Machinery example**
 
 > Machinery is an asynchronous task queue/job queue based on distributed message passing.
 
